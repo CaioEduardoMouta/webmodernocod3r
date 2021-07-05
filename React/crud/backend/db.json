@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@cod3r.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Caio Mouta",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "Caio Mouta",
+      "email": "caioeduardomouaio@gomaps.com",
+      "id": 3
+    },
+    {
+      "name": "Fabrizio Mouta ",
+      "email": "brizio2021@gmail.com",
+      "id": 4
+    }
+  ]
+}
